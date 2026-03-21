@@ -45,6 +45,7 @@ No application required. No fee. Valid forever.
 
 ## 🤝 说明 | Explain
 本项目仅为名称与概念规范，**不涉及任何虚拟货币发行、交易或金融相关活动**。
+
 This project is only a name and concept specification, ** does not involve any virtual currency issuance, trading or financial-related activities**.
 
 ---
