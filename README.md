@@ -43,13 +43,9 @@ No application required. No fee. Valid forever.
 
 ---
 
-## 🤝 使用场景 | Use Cases
-
-- 区块链代币 → 通宝
-- API 访问令牌 → 通宝
-- 身份认证凭证 → 通宝
-- 数字资产凭证 → 通宝
-- 积分/权益凭证 → 通宝
+## 🤝 说明 | Explain
+本项目仅为名称与概念规范，**不涉及任何虚拟货币发行、交易或金融相关活动**。
+This project is only a name and concept specification, ** does not involve any virtual currency issuance, trading or financial-related activities**.
 
 ---
 
