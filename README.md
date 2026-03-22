@@ -16,7 +16,7 @@
 
 ## 📜 声明 | Declaration
 
-本项目正式声明，将英文词汇 **Token**（令牌/代币/凭证）的中文名称定义为：
+本项目正式声明，将英文词汇 **Token** 的中文名称定义为：
 
 # 通宝（Tōng Bǎo）
 
@@ -29,6 +29,7 @@ This project officially declares that the Chinese name for the English term **To
 All Chinese speakers worldwide are hereby granted **free and unrestricted** use of the term **「通宝」** as the Chinese name for "Token".
 
 > 无需申请，无需付费，永久有效。
+> 
 > No application required. No fee. Valid forever.
 
 ---
@@ -71,10 +72,7 @@ All Chinese speakers worldwide are hereby granted **free and unrestricted** use 
 
 「通宝」适用于所有 Token 相关语境，包括但不限于：
 
-- **区块链 / Web3**：智能合约通宝、NFT 通宝、治理通宝
-- **身份认证**：访问通宝（Access Token）、刷新通宝（Refresh Token）
 - **AI 领域**：大模型的计算单位（Token → 通宝）
-- **游戏 / 积分**：游戏内通宝、平台积分通宝
 
 ---
 
